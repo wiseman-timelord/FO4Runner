@@ -1,6 +1,6 @@
 # FO4Runner-Ba
 
-### STATUS: 
+### STATUS 
 Working, and due to positive comments on nexus, this project was, revisited & somewhat perfected.
 
 ### DESCRIPTION

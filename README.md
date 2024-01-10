@@ -4,7 +4,7 @@
 Working, and due to positive comments on nexus, this project was, revisited & somewhat perfected.
 
 ### DESCRIPTION
-FO4Runner-Ba is a batch file launcher for Fallout 4 and F4SE, designed to terminate any residual "Fallout4.exe" processes to improve game performance. It prioritizes launching the game with "f4se_loader.exe" and defaults to "Fallout4.exe" if F4SE is not available. This tool is ideal for frequent Fallout 4 players, preventing redundant processes from affecting game start-up without needing to reboot their computers.
+FO4Runner-Ba is a batch file launcher for Fallout 4 and F4SE, designed to terminate any residual "Fallout4.exe" processes to improve game performance. It prioritizes launching the game with "f4se_loader.exe" and defaults to "Fallout4.exe" if F4SE is not available. This tool is ideal for frequent Fallout 4 players, preventing redundant processes from affecting game start-up without needing to, manually terminate processes or reboot their computers.
 
 ### FEATURES
 - **Efficient Game Launch**: Automatically runs "f4se_loader.exe", or defaults to "Fallout4.exe" if F4SE is not found.

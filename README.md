@@ -25,5 +25,5 @@ FO4Runner-Ba is a batch file launcher for Fallout 4 and F4SE, designed to termin
 - **Taskbar Shortcut Tip**: To pin FO4Runner-Ba to your taskbar, create a shortcut and prepend `cmd.exe /c` to the target path in the shortcut properties. Customize the shortcut icon for easy identification.
 - FO4Runner-Ba can be adapted for other games experiencing similar issues with lingering processes.
 
-### DISCLAIMER
-Read "License.Txt", its, what its there for and why its supplied with the package.
+## DISCLAIMER
+The "License.Txt" covers, this and relating, stuff.

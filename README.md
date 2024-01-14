@@ -26,4 +26,4 @@ FO4Runner-Ba is a batch file launcher for Fallout 4 and F4SE, designed to termin
 - FO4Runner-Ba can be adapted for other games experiencing similar issues with lingering processes.
 
 ### DISCLAIMER
-This program is provided "as is" without warranties or support. Users are responsible for the content they, download and use, as well as, any resulting damage to, hardware or sanity.
+Read "License.Txt", its, what its there for and why its supplied with the package.

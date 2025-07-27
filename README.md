@@ -21,7 +21,7 @@ FO4Runner is a batch file launcher for Fallout 4 and F4SE, designed to terminate
 - A Windows operating system with batch file execution support.
 
 ### NOTATION
-- This launcher tool is on [NexusMods.Com](https://www.nexusmods.com/fallout4/mods/77293).
+- This launcher tool is featured on [NexusMods.Com](https://www.nexusmods.com/fallout4/mods/77293).
 - To check for redundant Fallout 4 processes, use Task Manager and look for "Fallout4.exe" with, low CPU usage and significant memory usage.
 - **Taskbar Shortcut Tip**: To pin FO4Runner to your taskbar, create a shortcut and prepend `cmd.exe /c` to the target path in the shortcut properties. Customize the shortcut icon for easy identification.
 - FO4Runner can be adapted for other games experiencing similar issues with lingering processes.
